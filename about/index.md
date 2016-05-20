@@ -1,36 +1,18 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: 
+  - about
+  - Jekyll
+  - theme
+  - moon
+date: {}
+published: true
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
-
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+![logo.png]({{site.baseurl}}/about/logo.png)
+##kenalkan!
+ Hai...semuanya. Perkenalkan ku **adnil riza** nama lengkap ku **M. Adnil Riza Y** . **M** itu  singkatan dari Muhammad, nahh kalau **Y** itu ga usah ditanya. itu nama inisial dari nama bapak ku hehe.
+ saat ini aku sedang kuliah di Program Studi Sistem Informasi Fakultas Sains Dan Teknologi di Universitas Islam Negri Sultan Syarif Kasim yang kebanyakan orang lebih mengenal nama kampus ku UIN SUSKA RIAU.
+ saat ini saya sudah semester 6 dan ga terasa tinggal 1 tahun lagi (Insyaallah) aku berada dikampus untuk meraih gelar sarjana S.Kom. hehehe....
+ tujuan aku membuat website yang memanfaatkan jekyll ini adalah untuk syarat kelulusan dimatakuliah _Application Mobile_ di jurusan ku hehe... yah semoga saja kedepannya website ni juga akan berguna untuk saya share ilmu ke kalian semua yang mengakses situs ini.
+ mungkin sudah cukup untuk saya menceritakan tentang siapakan diri saya dan terimakasih telah berkunjung....
