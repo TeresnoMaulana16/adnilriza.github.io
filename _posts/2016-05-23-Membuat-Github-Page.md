@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Pada kesempatan ini saya akan mencoba membagikan ilmu yang saya tahu bagaimana cara membuat github page.
 hal - hal yang harus disiapkan adalah
