@@ -29,7 +29,6 @@ hal - hal yang harus disiapkan adalah
 
 ###### saat  page sudah selesai akan muncul tampilan berikut
 ![]({{site.baseurl}}/_posts/selesai.png)![selesai.png]({{site.baseurl}}/_posts/selesai.png)
-
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
