@@ -14,7 +14,6 @@ hal - hal yang harus disiapkan adalah
 3. sudah mempunyai akun github, jika belum punya silahkan daftar [disini](https://github.com/)
 4. secangkir kopi untuk menikmati tahap - tahap membuat github page
 
-
 ###### buka akun github dan buat repository baru
  ![new_repository.png]({{site.baseurl}}/_posts/new_repository.png)
  
