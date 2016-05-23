@@ -28,7 +28,8 @@ hal - hal yang harus disiapkan adalah
 ![]({{site.baseurl}}/_posts/layout.png)
 
 ###### saat  page sudah selesai akan muncul tampilan berikut
-![layout.png]({{site.baseurl}}/_posts/layout.png)
+![]({{site.baseurl}}/_posts/selesai.png)![selesai.png]({{site.baseurl}}/_posts/selesai.png)
+
 
 
 
