@@ -1,9 +1,10 @@
 ---
 published: true
 layout: post
-title: "Membuat github page"
-date: 2016-05-23
-tags: [membuat github page]
+title: Membuat github page
+date: {}
+tags: 
+  - membuat github page
 comments: true
 ---
 Pada kesempatan ini saya akan mencoba membagikan ilmu yang saya tahu bagaimana cara membuat github page.
@@ -34,7 +35,3 @@ hal - hal yang harus disiapkan adalah
 
 ###### saat  page sudah selesai akan muncul tampilan berikut
 ![]({{site.baseurl}}/_posts/selesai.png)![selesai.png]({{site.baseurl}}/_posts/selesai.png)
-
-
-
-
