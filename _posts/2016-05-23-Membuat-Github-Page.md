@@ -16,8 +16,9 @@ hal - hal yang harus disiapkan adalah :
 
 ###### buka akun github dan buat repository baru
 
-<figure>
-	<a href="http://s20.postimg.org/p8yrm3aal/1_new_repository.png"><img src="http://s20.postimg.org/p8yrm3aal/1_new_repository.png></a></figure>
+{% capture images %}
+	<a href="http://s20.postimg.org/p8yrm3aal/1_new_repository.png"><img src="http://s20.postimg.org/p8yrm3aal/1_new_repository.png></a>
+	{% endcapture %}
  
 ###### buat repository baru
 <figure>
