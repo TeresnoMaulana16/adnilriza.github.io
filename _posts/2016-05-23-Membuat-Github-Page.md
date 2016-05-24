@@ -15,6 +15,12 @@ hal - hal yang harus disiapkan adalah :
 - secangkir kopi untuk menikmati tahap - tahap membuat github page
 
 ###### buka akun github dan buat repository baru
+<figure>
+	<a href=""><img src="https://github.com/adnilriza/adnilriza.github.io/assets/img/Membuat-Github-Page/1.new_repository.png"></a>
+	<figcaption><a href="" title="new repository">new repository</a>.</figcaption>
+</figure>
+![1.new_repository.png]({{site.baseurl}}/_posts/1.new_repository.png)
+
 
  ![1.new_repository.png](https://github.com/adnilriza/adnilriza.github.io/assets/img/Membuat-Github-Page/1.new_repository.png)
  
