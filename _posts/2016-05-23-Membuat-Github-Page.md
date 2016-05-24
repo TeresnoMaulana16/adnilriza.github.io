@@ -15,22 +15,22 @@ hal - hal yang harus disiapkan adalah
 4. secangkir kopi untuk menikmati tahap - tahap membuat github page
 
 ###### buka akun github dan buat repository baru
- ![new_repository.png]({{site.baseurl}}/_posts/new_repository.png)
+ ![1.new_repository.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/1.new_repository.png)
  
 ###### buat repository baru
-![create.png]({{site.baseurl}}/_posts/create.png)
+![2.create.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/2.create.png)
 
 ###### setelah repository jadi, masuk ke setting
-![]({{site.baseurl}}/_posts/setting.png)
+![3.setting.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/3.setting.png)
 
 ###### lalu cari **launch page generator**
-![]({{site.baseurl}}/_posts/generator.png)
+![4.generator.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/4.generator.png)
 
 ###### lalu isi _content_ yang ingin ditampilakan di_website_, dan jika sudah siap tekan **Continue to layouts**
-![create.png]({{site.baseurl}}/_posts/create.png)
+![5.continue.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/5.continue.png)
 
 ###### lalu pada tahap ini silahkan pilih layouts yang diinginkan, jika sudah selesai tekan **Publish Page**
-![]({{site.baseurl}}/_posts/layout.png)
+![6.layout.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/6.layout.png)
 
 ###### saat  page sudah selesai akan muncul tampilan berikut
-![]({{site.baseurl}}/_posts/selesai.png)![selesai.png]({{site.baseurl}}/_posts/selesai.png)
+![7.selesai.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/7.selesai.png)
