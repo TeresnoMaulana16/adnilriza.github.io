@@ -26,7 +26,7 @@ hal - hal yang harus disiapkan adalah
 ###### lalu cari **launch page generator**
 ![4.generator.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/4.generator.png)
 
-###### lalu isi _content_ yang ingin ditampilakan di_website_, dan jika sudah siap tekan **Continue to layouts**
+###### lalu isi _content_ yang ingin ditampilakan di _website_ , dan jika sudah siap tekan **Continue to layouts**
 ![5.continue.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/5.continue.png)
 
 ###### lalu pada tahap ini silahkan pilih layouts yang diinginkan, jika sudah selesai tekan **Publish Page**
