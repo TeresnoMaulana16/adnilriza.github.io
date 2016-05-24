@@ -8,13 +8,14 @@ tags:
 comments: true
 ---
 Pada kesempatan ini saya akan mencoba membagikan ilmu yang saya tahu bagaimana cara membuat github page.
-hal - hal yang harus disiapkan adalah
-1. komputer / laptop yang sudah siap pakai
-2. jaringan internet yang stabil
-3. sudah mempunyai akun github, jika belum punya silahkan daftar [disini](https://github.com/)
-4. secangkir kopi untuk menikmati tahap - tahap membuat github page
+hal - hal yang harus disiapkan adalah :
+- komputer / laptop yang sudah siap pakai
+- jaringan internet yang stabil
+- sudah mempunyai akun github, jika belum punya silahkan daftar [disini](https://github.com/)
+- secangkir kopi untuk menikmati tahap - tahap membuat github page
 
 ###### buka akun github dan buat repository baru
+
  ![1.new_repository.png]({{site.baseurl}}/assets/img/Membuat-Github-Page/1.new_repository.png)
  
 ###### buat repository baru
